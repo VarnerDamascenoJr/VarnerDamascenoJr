@@ -1,6 +1,6 @@
 # Hi, I'm Varner Damasceno
 
-Frontend-focused software engineer with full-stack experience building web applications with React, TypeScript, Node.js, and Go.
+Senior Full-Stack Engineer building web applications with React, TypeScript, Node.js, and Go.
 
 I enjoy creating products with clean interfaces, practical architecture, and solid developer experience. My current focus is on modern frontend applications, reusable UI systems, API integrations, and production-oriented engineering.
 
