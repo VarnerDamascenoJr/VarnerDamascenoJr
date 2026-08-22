@@ -37,6 +37,15 @@ I enjoy creating products with clean interfaces, practical architecture, and sol
 
 ## GitHub Overview
 
-![Varner's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarnerDamascenoJr&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VarnerDamascenoJr&layout=compact&hide_border=true)
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VarnerDamascenoJr&theme=github"
+    alt="Varner's GitHub stats"
+    width="48%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VarnerDamascenoJr&theme=github"
+    alt="Top languages by repository"
+    width="48%"
+  />
+</p>
