@@ -8,12 +8,10 @@ I enjoy creating products with clean interfaces, practical architecture, and sol
 
 ## Featured Projects
 
-- [sales-event-project](https://github.com/VarnerDamascenoJr/sales-event-project) - Go project focused on backend structure and service-oriented development.
-- [react-dash](https://github.com/VarnerDamascenoJr/react-dash) - Dashboard-oriented frontend application built with React and TypeScript.
-- [oil-gas-sensor-project](https://github.com/VarnerDamascenoJr/oil-gas-sensor-project) - TypeScript project around sensor-based data and domain-driven problem solving.
-- [e-commerce-react](https://github.com/VarnerDamascenoJr/e-commerce-react) - E-commerce frontend exploring component architecture and user experience.
-- [react-image-ai-generator](https://github.com/VarnerDamascenoJr/react-image-ai-generator) - React application for AI-assisted image generation workflows.
-- [desafio-entrevista-nodejs](https://github.com/VarnerDamascenoJr/desafio-entrevista-nodejs) - Node.js technical challenge showcasing problem solving and backend fundamentals.
+- [Exchange Matching](https://github.com/VarnerDamascenoJr/exchange-matching) - BTC/USD exchange with a React interface, a NestJS matching worker, balance settlement, and real-time updates.
+- [Sales Event Project](https://github.com/VarnerDamascenoJr/sales-event-project) - Go ticket-sales backend with RabbitMQ, payment webhooks, a transactional outbox, and retry workers.
+- [Operational Observability Platform](https://github.com/VarnerDamascenoJr/operational-observability-platform) - TypeScript platform for SLOs, alerts, incident investigation, and correlated telemetry with OpenTelemetry and Grafana.
+- [OptiFlow](https://github.com/VarnerDamascenoJr/OptiFlow) - Operational optimization project for comparing delivery plans under configurable constraints and simulated uncertainty.
 
 ## Core Stack
 
