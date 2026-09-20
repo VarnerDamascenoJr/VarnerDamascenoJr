@@ -11,7 +11,7 @@ I enjoy creating products with clean interfaces, practical architecture, and sol
 - [Exchange Matching](https://github.com/VarnerDamascenoJr/exchange-matching) - BTC/USD exchange with a React interface, a NestJS matching worker, balance settlement, and real-time updates.
 - [Sales Event Project](https://github.com/VarnerDamascenoJr/sales-event-project) - Go ticket-sales backend with RabbitMQ, payment webhooks, a transactional outbox, and retry workers.
 - [Operational Observability Platform](https://github.com/VarnerDamascenoJr/operational-observability-platform) - TypeScript platform for SLOs, alerts, incident investigation, and correlated telemetry with OpenTelemetry and Grafana.
-- [OptiFlow](https://github.com/VarnerDamascenoJr/OptiFlow) - Operational optimization MVP for comparing delivery plans under configurable constraints and simulated uncertainty.
+- [OptiFlow](https://github.com/VarnerDamascenoJr/OptiFlow) - Operational optimization project for comparing delivery plans under configurable constraints and simulated uncertainty.
 
 ## Core Stack
 
